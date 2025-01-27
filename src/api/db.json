@@ -1,0 +1,104 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Vegetable Stir-Fry",
+      "timeToEat": "Lunch/Dinner",
+      "ingredients": ["Broccoli", "Carrots", "Bell peppers", "Soy sauce", "Garlic", "Ginger"],
+      "cookingTime": "20 minutes",
+      "difficulty": "Easy",
+      "food_type": "veg",
+      "description": "A colorful, nutrient-packed stir-fry made with crisp, tender vegetables cooked in a savory soy-ginger sauce. Perfect for a quick and healthy meal that’s ready in minutes."
+    },
+    {
+      "id": 2,
+      "title": "Paneer Butter Masala",
+      "timeToEat": "Lunch/Dinner",
+      "ingredients": ["Paneer", "Tomatoes", "Butter", "Cream", "Spices"],
+      "cookingTime": "40 minutes",
+      "difficulty": "Medium",
+      "food_type": "veg",
+      "description": "A restaurant-style Indian delicacy, Paneer Butter Masala is a rich and creamy curry made with soft paneer cubes simmered in a luscious tomato-based gravy infused with aromatic spices and a hint of butter."
+    },
+    {
+      "id": 3,
+      "title": "Chicken Tikka",
+      "timeToEat": "Dinner",
+      "ingredients": ["Chicken", "Yogurt", "Spices", "Garlic", "Lemon juice"],
+      "cookingTime": "30 minutes",
+      "difficulty": "Medium",
+      "food_type": "non-veg",
+      "description": "Succulent pieces of marinated chicken grilled to perfection, bursting with smoky flavors and spices. This iconic dish pairs beautifully with naan or as an appetizer."
+    },
+    {
+      "id": 4,
+      "title": "Grilled Salmon",
+      "timeToEat": "Dinner",
+      "ingredients": ["Salmon", "Lemon", "Garlic", "Olive oil", "Dill"],
+      "cookingTime": "25 minutes",
+      "difficulty": "Medium",
+      "food_type": "non-veg",
+      "description": "Tender, flaky salmon fillets grilled with a zesty lemon-garlic marinade and garnished with fresh dill. A wholesome dinner option that’s as delicious as it is healthy."
+    },
+    {
+      "id": 5,
+      "title": "Vegetable Pasta",
+      "timeToEat": "Lunch/Dinner",
+      "ingredients": ["Pasta", "Zucchini", "Tomatoes", "Garlic", "Olive oil"],
+      "cookingTime": "30 minutes",
+      "difficulty": "Medium",
+      "food_type": "veg",
+      "description": "A comforting Italian-inspired dish featuring al dente pasta tossed with sautéed zucchini, juicy tomatoes, and a hint of garlic, all lightly coated in olive oil."
+    },
+    {
+      "id": 6,
+      "title": "Beef Burger",
+      "timeToEat": "Lunch/Dinner",
+      "ingredients": ["Ground beef", "Buns", "Lettuce", "Tomatoes", "Cheese"],
+      "cookingTime": "25 minutes",
+      "difficulty": "Medium",
+      "food_type": "non-veg",
+      "description": "A hearty, juicy burger made with seasoned ground beef patties, stacked with crisp lettuce, ripe tomatoes, and melted cheese, all encased in a soft bun. A timeless favorite!"
+    },
+    {
+      "id": 7,
+      "title": "Egg Salad",
+      "timeToEat": "Lunch",
+      "ingredients": ["Eggs", "Lettuce", "Mayonnaise", "Salt", "Pepper"],
+      "cookingTime": "15 minutes",
+      "difficulty": "Easy",
+      "food_type": "veg",
+      "description": "A classic and creamy egg salad made with hard-boiled eggs, crisp lettuce, and a mayonnaise-based dressing, seasoned with salt and pepper for a quick and satisfying meal."
+    },
+    {
+      "id": 8,
+      "title": "Shrimp Stir-Fry",
+      "timeToEat": "Dinner",
+      "ingredients": ["Shrimp", "Bell peppers", "Onions", "Soy sauce", "Garlic"],
+      "cookingTime": "20 minutes",
+      "difficulty": "Medium",
+      "food_type": "non-veg",
+      "description": "A vibrant stir-fry combining tender shrimp with crunchy bell peppers and onions, coated in a savory soy-garlic sauce for an irresistible dinner."
+    },
+    {
+      "id": 9,
+      "title": "Vegetable Soup",
+      "timeToEat": "Dinner",
+      "ingredients": ["Carrots", "Celery", "Potatoes", "Onions", "Vegetable stock"],
+      "cookingTime": "45 minutes",
+      "difficulty": "Medium",
+      "food_type": "veg",
+      "description": "A warming and wholesome soup filled with fresh, chunky vegetables simmered in a flavorful vegetable stock. Perfect for a cozy night in."
+    },
+    {
+      "id": 10,
+      "title": "Lamb Curry",
+      "timeToEat": "Dinner",
+      "ingredients": ["Lamb", "Tomatoes", "Onions", "Curry powder", "Garlic"],
+      "cookingTime": "1 hour",
+      "difficulty": "Hard",
+      "food_type": "non-veg",
+      "description": "A bold and aromatic lamb curry with tender meat cooked in a spiced tomato and onion gravy. Ideal for special occasions or when you’re craving authentic flavors."
+    }
+  ]
+}

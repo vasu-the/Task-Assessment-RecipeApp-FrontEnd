@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+* {
+  margin: 0;
+  padding: 0;
+  scrollbar-width: none;
+}
+
+.center_div {
+  @apply !flex !items-center !justify-center;
+}
+
+.antd_input {
+  @apply !w-[400px] !h-[50px]   !border-slate-200 
+}
